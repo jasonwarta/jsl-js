@@ -1,0 +1,12 @@
+{
+  "name": "jsl-react-components",
+  "version": "1.0.0",
+  "description": "reusable general-purpose React components",
+  "main": "index.js",
+  "repository": "git@github.com:jasonwarta/jsl-react-components.git",
+  "author": "Jason Warta <jasonwarta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1"
+  }
+}
