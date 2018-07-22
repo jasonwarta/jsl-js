@@ -1,6 +1,6 @@
 
 const callOnce = (fn) => {
-	called = false;
+	let called = false;
 	return (...params) =>
 		called
 		? console.warn(`function ${fn.name} called multiple times`)
