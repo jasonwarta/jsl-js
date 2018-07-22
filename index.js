@@ -1,7 +1,7 @@
 // utility functions
-export {default} from './callOnce';
-export {default} from './uint8ArrayToBase64';
+export {callOnce} from './callOnce';
+export {uint8ArrayToBase64} from './uint8ArrayToBase64';
 
 // React Components
-export {default} from './ErrorBoundary';
-export {default} from './ProtectedRoute';
+export {ErrorBoundary} from './ErrorBoundary';
+export {ProtectedRoute} from './ProtectedRoute';
